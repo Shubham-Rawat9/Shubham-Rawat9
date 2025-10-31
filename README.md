@@ -1,7 +1,47 @@
-## 💫 Hi 👋, I'm SHUBHAM RAWAT
+# 👋 Hi, I’m Shubham Rawat
 
-**A passionate Front-End Developer** <br> <br>
-🌱 <b>I’m currently learning</b> ⚛️ -Advanced React.js patterns (hooks, context, performance optimization) 🚀 Deploying apps using Vercel, Netlify, or GitHub Pages 🎨 Tailwind CSS for utility-first styling 📊 Integrating APIs and handling async data - Tailwind CSS for utility-first design - Git & GitHub workflows (PRs, branching, CI/CD) - Web performance optimization techniques <br> <br>🤝 <b>I’m looking for help with</b> 🤝  - Improving my React.js architecture skills - Best practices for responsive design and accessibility  - Understanding how to contribute effectively to open-source - Optimizing front-end performance and SEO<br><br>👯 <b>I’m looking to collaborate on</b> 👯  - Front-End web development projects (React, HTML/CSS, JavaScript) - Open-source UI/UX design improvements - Portfolio websites or small business landing pages<br> <br>💬 <b>Ask me about</b> 🎨 -Front-End Web Development , 📦 API integration<br> <br>📫 <b>How to reach me</b> -shubhamrawat97614@gmail.com <br> <br>⚡ <b>Fun fact</b> - A 1-line bug can take 4 hours to find. A 1-line fix can take 4 days to feel confident about 😎
+**Front-End Developer | UI Designer | Building sleek and responsive websites**
+
+---
+
+
+## 🌱 Currently Learning
+- ⚛️ **Front-End Development:** React.js, Advanced JavaScript, API integration  
+- 🎨 **UI/UX Design:** Figma, Tailwind CSS, responsive and clean designs  
+- 🛠 **Back-End / Full Stack:** MERN stack, WordPress, server-side basics  
+- 🚀 **Deployment & Workflows:** Vercel, Netlify, GitHub Pages, Git & GitHub workflows  
+- ⚡ **Performance & Optimization:** Web performance, SEO best practices
+
+
+---
+
+## 🤝 Looking for Help With
+- Improving React apps, best practices for responsive design and accessibility
+- Contributing to open-source effectively  
+ 
+
+---
+
+## 👯 Open to Collaborate On
+- Front-End projects, small websites, UI/UX improvements, and contributing to open-source
+
+---
+
+## 💬 Ask Me About
+- Front-End Web Development  
+- Creating responsive UI, working with APIs, and React.js projects
+
+
+---
+
+## 📫 Contact Me
+✉️ shubhamrawat97614@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+Every bug I fix teaches me something new… even if it takes 4 hours to find 😎
+
 
 
 ## 🌐 Socials:
