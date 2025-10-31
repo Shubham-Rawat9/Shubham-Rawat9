@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Shubham Rawat
 
 **Front-End Developer | UI Designer | Building sleek and responsive websites**
--
+ -
 
 
 ## 🌱 Currently Learning
@@ -11,32 +11,30 @@
 - 🚀 **Deployment & Workflows:** Vercel, Netlify, GitHub Pages, Git & GitHub workflows  
 - ⚡ **Performance & Optimization:** Web performance, SEO best practices
 
-
+  
 -
 
 ## 🤝 Looking for Help With
 - Improving React apps, best practices for responsive design and accessibility
-- Contributing to open-source effectively  
- 
+- Contributing to open-source effectively
 
--
+  -
 
 ## 👯 Open to Collaborate On
 - Front-End projects, small websites, UI/UX improvements, and contributing to open-source
 
--
+   -
 
 ## 💬 Ask Me About
 - Front-End Web Development  
 - Creating responsive UI, working with APIs, and React.js projects
 
-
--
+   -
 
 ## 📫 Contact Me
-✉️ shubhamrawat97614@gmail.com  
+✉️ shubhamrawat97614@gmail.com 
 
--
+ -
 
 ## ⚡ Fun Fact
 Every bug I fix teaches me something new… even if it takes 4 hours to find 😎
