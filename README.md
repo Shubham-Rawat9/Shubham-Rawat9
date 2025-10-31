@@ -17,12 +17,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shubham-Rawat9&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shubham-Rawat9&theme=onedark&title=Commit,Repositories,Stars,Followers,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 # 📊 SHUBHAM RAWAT Github Stats
-![](https://github-readme-stats.vercel.app/api?username=Shubham-Rawat9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shubham-Rawat9&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Shubham-Rawat9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>  <br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shubham-Rawat9&theme=dark&hide_border=false)<br/> <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Rawat9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
