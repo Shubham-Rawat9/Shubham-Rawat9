@@ -17,7 +17,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shubham-Rawat9&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=<Shubham-Rawat9>&theme=onedark&title=Commit,Repositories,Stars,Followers,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shubham-Rawat9&theme=onedark&title=Commit,Repositories,Stars,Followers,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # 📊 SHUBHAM RAWAT Github Stats
