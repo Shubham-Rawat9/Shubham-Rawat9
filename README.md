@@ -32,7 +32,7 @@
    
 
 ## 📫 Get in Touch
-[📧 Email ](mailto:shubhamrawat97614@gmail.com)
+[📧 Reach Out via Email ](mailto:shubhamrawat97614@gmail.com)
 
  
 
