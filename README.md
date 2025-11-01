@@ -31,8 +31,8 @@
 
    
 
-## 📫 Contact Me
-✉️ shubhamrawat97614@gmail.com 
+## 📫 Get in Touch
+[📧 Email ](mailto:shubhamrawat97614@gmail.com)
 
  
 
